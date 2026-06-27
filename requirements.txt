@@ -1,0 +1,7 @@
+selenium
+transformers
+torch
+pillow
+requests
+webdriver-manager
+flask
